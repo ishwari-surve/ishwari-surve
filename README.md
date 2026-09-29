@@ -1,31 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ishwari Surve</h1>
+<h1 align="center">👩‍💻 Ishwari Surve | Developer & ML Enthusiast</h1>
 
 <h3 align="center">
-  💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning 
+  💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
-💻 Programmer | Python | Java | C | C++
+> 💻 "Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." — Bill Gates
 
-## 🌱 Currently Learning
+## 👩‍💻 About Me
+
+I'm Ishwari Surve, a programmer passionate about building practical and meaningful software.
+
+💻 Skilled in C, C++, Java and Python, with a strong foundation in Data Structures & Algorithms.
+
+🤖 Experienced in building Python automation projects and exploring Machine Learning through practical implementations.
+
+🚀 I enjoy solving problems, building real-world applications, and continuously improving my development skills.
+
+## 🌱 Currently Exploring
 
 ```text
 Machine Learning
       ↓
-Python & Automation
+Python Automation
       ↓
 Data Structures & Algorithms
       ↓
 Advanced Java
       ↓
-Building Real-World Projects 🚀
+Real-World Software Development 🚀
 
 ```
-
-🚀 I enjoy building programming projects, automation tools, and machine learning applications.
 
 ## 🎯 What I Do
 
@@ -102,7 +110,7 @@ Python automation project for organizing and cleaning directories.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Projects
+## 📚 More Projects
 
 ### 🤖 Automation Projects
 
@@ -150,6 +158,11 @@ Python automation project for organizing and cleaning directories.
   <a href="https://github.com/ishwari-surve">
     <img src="https://img.shields.io/badge/GitHub-ishwari--surve-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/ishwari-surve/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ishwari%20Surve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:surveishwari296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 
