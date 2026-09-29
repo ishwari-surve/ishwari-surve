@@ -86,7 +86,7 @@ Python automation project for organizing and cleaning directories.
 </tr>
 </table>
 
-```
+
 
 ## 🛠️ Tech Stack
 
