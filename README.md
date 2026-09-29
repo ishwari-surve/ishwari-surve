@@ -37,14 +37,12 @@ Building Real-World Projects 🚀
 🔧 Development        → Git | GitHub | VS Code
 ```
 
-```md
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-
-```
 
 ### 🤖 Automated Platform Surveillance System
 
