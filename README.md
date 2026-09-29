@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishwari Surve</h1>
 
 <h3 align="center">
-  💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning Learner
+  💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning 
 </h3>
 
 <p align="center">
