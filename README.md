@@ -1,12 +1,27 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishwari Surve</h1>
 
-## I'm Ishwari Surve
+<h3 align="center">
+  💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning Learner
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 💻 Programmer | Python | Java | C | C++
 
 🌱 Currently learning Machine Learning, Data Structures & Algorithms, and Python Automation.
 
 🚀 I enjoy building programming projects, automation tools, and machine learning applications.
+
+## 🎯 What I Do
+
+```text
+💻 Programming        → C | C++ | Java | Python
+🧩 Problem Solving    → Data Structures & Algorithms
+🤖 Automation         → Python Automation Projects
+🧠 Machine Learning   → ML Projects & Experiments
+🔧 Development        → Git | GitHub | VS Code
 
 ## 🛠️ Tech Stack
 
