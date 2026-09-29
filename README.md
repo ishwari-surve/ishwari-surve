@@ -56,7 +56,7 @@ Python-based automation project focused on platform surveillance and monitoring.
 
 </td>
 
-<td width="50%">
+<td width="50%"> 
 
 ### 🛡️ Secure Automated Data Shield
 
