@@ -22,6 +22,7 @@
 🤖 Automation         → Python Automation Projects
 🧠 Machine Learning   → ML Projects & Experiments
 🔧 Development        → Git | GitHub | VS Code
+```
 
 ## 🛠️ Tech Stack
 
