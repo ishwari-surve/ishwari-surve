@@ -23,6 +23,8 @@ Advanced Java
       ↓
 Building Real-World Projects 🚀
 
+```
+
 🚀 I enjoy building programming projects, automation tools, and machine learning applications.
 
 ## 🎯 What I Do
@@ -34,7 +36,6 @@ Building Real-World Projects 🚀
 🧠 Machine Learning   → ML Projects & Experiments
 🔧 Development        → Git | GitHub | VS Code
 ```
-
 
 ### Step 3 — Add a Featured Projects section
 
