@@ -10,7 +10,18 @@
 
 💻 Programmer | Python | Java | C | C++
 
-🌱 Currently learning Machine Learning, Data Structures & Algorithms, and Python Automation.
+## 🌱 Currently Learning
+
+```text
+Machine Learning
+      ↓
+Python & Automation
+      ↓
+Data Structures & Algorithms
+      ↓
+Advanced Java
+      ↓
+Building Real-World Projects 🚀
 
 🚀 I enjoy building programming projects, automation tools, and machine learning applications.
 
@@ -22,6 +33,62 @@
 🤖 Automation         → Python Automation Projects
 🧠 Machine Learning   → ML Projects & Experiments
 🔧 Development        → Git | GitHub | VS Code
+```
+
+
+### Step 3 — Add a Featured Projects section
+
+Below that:
+
+```md
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Automated Platform Surveillance System
+
+Python-based automation project focused on platform surveillance and monitoring.
+
+[🔗 View Project](https://github.com/ishwari-surve/Automated-Platform-Surveillance-System)
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Secure Automated Data Shield
+
+Automation project focused on protecting and managing data.
+
+[🔗 View Project](https://github.com/ishwari-surve/Secure-Automated-Data-Shield)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Applied ML Workbench
+
+Machine Learning projects, experiments and practical implementations.
+
+[🔗 View Project](https://github.com/ishwari-surve/Applied-ML-Workbench)
+
+</td>
+
+<td width="50%">
+
+### 🧹 Automated Directory Cleaner
+
+Python automation project for organizing and cleaning directories.
+
+[🔗 View Project](https://github.com/ishwari-surve/Automated-Directory-Cleaner)
+
+</td>
+</tr>
+</table>
+
 ```
 
 ## 🛠️ Tech Stack
