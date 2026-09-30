@@ -2,7 +2,7 @@
 
 <h3 align="center">
   💻 Programmer | 🤖 Automation Enthusiast | 🧠 Machine Learning
-</h3>
+</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
