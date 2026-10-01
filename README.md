@@ -202,3 +202,9 @@ My Machine Learning work includes practical implementations across:
   <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" />
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
