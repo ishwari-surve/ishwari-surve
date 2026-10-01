@@ -175,3 +175,18 @@ View Project →
 - [Python Automation](https://github.com/ishwari-surve/Python-Automation) — Python-based automation programs and utilities.
 - [Automated Directory Cleaner](https://github.com/ishwari-surve/Automated-Directory-Cleaner) — Automated directory organization and file management.
 
+## 🧠 Machine Learning Focus
+
+My Machine Learning work includes practical implementations across:
+
+- Data preprocessing and analysis
+- Supervised Learning
+- Classification
+- Regression
+- K-Nearest Neighbors (KNN)
+- Decision Trees
+- Model evaluation and prediction
+- Data visualization
+
+**Libraries:** NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
