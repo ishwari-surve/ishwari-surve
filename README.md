@@ -161,3 +161,17 @@ View Project →
 </tr>
 </table>
 
+## 📚 More Projects
+
+### Programming & Problem Solving
+
+- [Programming Vault](https://github.com/ishwari-surve/Programming-Vault) — C, C++, Java, Python, HTML, CSS, JavaScript and programming practice.
+- [Data Structures & Algorithms](https://github.com/ishwari-surve/Data-Structures-Algorithms-) — Data Structures, Algorithms and problem-solving implementations.
+- [Logic Building](https://github.com/ishwari-surve/Logic-Building) — Programming logic and problem-solving practice.
+- [Python Training Assignments](https://github.com/ishwari-surve/python-training-assignments) — Python programming, data analysis and Machine Learning assignments.
+
+### Automation
+
+- [Python Automation](https://github.com/ishwari-surve/Python-Automation) — Python-based automation programs and utilities.
+- [Automated Directory Cleaner](https://github.com/ishwari-surve/Automated-Directory-Cleaner) — Automated directory organization and file management.
+
