@@ -97,3 +97,67 @@ Strengthening algorithmic thinking and solving programming problems using fundam
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Automated Platform Surveillance System
+
+A Python-based automation project focused on platform surveillance and monitoring.
+
+**Focus:** Python • Automation
+
+<a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Secure Automated Data Shield
+
+A project focused on automated data protection and secure data management.
+
+**Focus:** Python • Security • Automation
+
+<a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">
+View Project →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Applied ML Workbench
+
+A collection of practical Machine Learning implementations and experiments.
+
+**Focus:** Python • Machine Learning • Data
+
+<a href="https://github.com/ishwari-surve/Applied-ML-Workbench">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Automated Duplicate File Detector
+
+A Python automation project designed to identify duplicate files and simplify file management.
+
+**Focus:** Python • Automation • File Management
+
+<a href="https://github.com/ishwari-surve/Automated-Duplicate-File-Detector">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
