@@ -190,3 +190,15 @@ My Machine Learning work includes practical implementations across:
 
 **Libraries:** NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&custom_title=Ishwari%20Surve%27s%20GitHub%20Statistics&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&custom_title=Ishwari%20Surve%27s%20Most%20Used%20Languages&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" />
+</p>
+
