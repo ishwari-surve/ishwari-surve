@@ -23,46 +23,6 @@ I develop Python-based automation projects and explore Machine Learning through 
 
 I'm continuously improving my technical skills by building projects, strengthening my programming fundamentals, and exploring new technologies.
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### Software Development
-
-Building programs and applications using C, C++, Java and Python, with a focus on clean logic and problem solving.
-
-</td>
-
-<td width="50%">
-
-### Python Automation
-
-Developing automation tools to simplify repetitive tasks and improve everyday workflows.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Machine Learning
-
-Exploring practical Machine Learning concepts through hands-on projects and implementations.
-
-</td>
-
-<td width="50%">
-
-### Data Structures & Algorithms
-
-Strengthening algorithmic thinking and solving programming problems using fundamental data structures and algorithms.
-
-</td>
-</tr>
-</table>
-
 ## 🛠️ Tech Stack
 
 ### Languages
