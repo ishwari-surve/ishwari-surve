@@ -162,6 +162,16 @@ My Machine Learning work includes practical implementations across:
   <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 👀 Profile Views
 
 <p align="center">
