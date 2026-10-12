@@ -1,166 +1,111 @@
-<h1 align="center">👩‍💻 Ishwari Surve</h1>
+# 👩‍💻 Ishwari Surve
 
 <p align="center">
-  Developer • Python • Java • C • C++ • Automation • Machine Learning
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+Java+%7C+C+%7C+C%2B%2B;Automation+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ishwari-surve">
-    <img src="https://img.shields.io/badge/GitHub-ishwari--surve-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ishwari-surve/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ishwari%20Surve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:surveishwari296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
-I'm Ishwari Surve, a developer with a strong foundation in programming, problem solving, and software development.
+I'm a developer interested in building practical software solutions, automation tools, and machine learning applications.
 
-I work with C, C++, Java, and Python, with a focus on Data Structures & Algorithms and building practical software solutions.
+- 💻 **Programming:** C, C++, Java, and Python
+- 🧩 **Problem Solving:** Data Structures and Algorithms
+- ⚙️ **Automation:** Python-based tools and utilities
+- 🧠 **Machine Learning:** Practical implementations and experiments
+- 🛠️ **Development Tools:** Git, GitHub, and VS Code
 
-I develop Python-based automation projects and explore Machine Learning through hands-on implementations and real-world problem solving.
+I enjoy strengthening my programming fundamentals and turning ideas into useful projects through hands-on development.
 
-I'm continuously improving my technical skills by building projects, strengthening my programming fundamentals, and exploring new technologies.
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Programming Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Machine Learning & Data
+**Data & Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### Security & Authentication
+**Tools & Other Technologies**
 
 <p>
-  <img src="https://img.shields.io/badge/Kerberos-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Kerberos-334155?style=flat-square" alt="Kerberos" />
 </p>
 
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+---
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🤖 Automated Platform Surveillance System
-
-A Python-based automation project focused on platform surveillance and monitoring.
-
-**Focus:** Python • Automation
-
-<a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🛡️ Secure Automated Data Shield
-
-A project focused on automated data protection and secure data management.
-
-**Focus:** Python • Security • Automation
-
-<a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">
-View Project →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Applied ML Workbench
-
-A collection of practical Machine Learning implementations and experiments.
-
-**Focus:** Python • Machine Learning • Data
-
-<a href="https://github.com/ishwari-surve/Applied-ML-Workbench">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Automated Duplicate File Detector
-
-A Python automation project designed to identify duplicate files and simplify file management.
-
-**Focus:** Python • Automation • File Management
-
-<a href="https://github.com/ishwari-surve/Automated-Duplicate-File-Detector">
-View Project →
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">Automated Platform Surveillance System</a></h3>
+      <p>A Python-based project focused on platform surveillance and monitoring automation.</p>
+      <p><sub>Python · Automation</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">Secure Automated Data Shield</a></h3>
+      <p>A project focused on automated data protection and secure data management.</p>
+      <p><sub>Python · Security · Automation</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/ishwari-surve/Applied-ML-Workbench">Applied ML Workbench</a></h3>
+      <p>A collection of practical machine learning implementations and experiments.</p>
+      <p><sub>Python · Machine Learning</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://github.com/ishwari-surve/Automated-Duplicate-File-Detector">Automated Duplicate File Detector</a></h3>
+      <p>A Python project focused on identifying duplicate files and simplifying file management.</p>
+      <p><sub>Python · File Management</sub></p>
+    </td>
+  </tr>
 </table>
 
-## 📚 More Projects
-
-### Programming & Problem Solving
-
-- [Programming Vault](https://github.com/ishwari-surve/Programming-Vault) — C, C++, Java, Python, HTML, CSS, JavaScript and programming practice.
-- [Data Structures & Algorithms](https://github.com/ishwari-surve/Data-Structures-Algorithms-) — Data Structures, Algorithms and problem-solving implementations.
-- [Logic Building](https://github.com/ishwari-surve/Logic-Building) — Programming logic and problem-solving practice.
-- [Python Training Assignments](https://github.com/ishwari-surve/python-training-assignments) — Python programming, data analysis and Machine Learning assignments.
-
-### Automation
-
-- [Python Automation](https://github.com/ishwari-surve/Python-Automation) — Python-based automation programs and utilities.
-- [Automated Directory Cleaner](https://github.com/ishwari-surve/Automated-Directory-Cleaner) — Automated directory organization and file management.
-
-## 🧠 Machine Learning Focus
-
-My Machine Learning work includes practical implementations across:
-
-- Data preprocessing and analysis
-- Supervised Learning
-- Classification
-- Regression
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Model evaluation and prediction
-- Data visualization
-
-**Libraries:** NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&custom_title=Ishwari%20Surve%27s%20GitHub%20Statistics&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&custom_title=Ishwari%20Surve%27s%20Most%20Used%20Languages&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak" />
 </p>
+
+---
 
 ## 🐍 Contribution Activity
 
@@ -168,13 +113,30 @@ My Machine Learning work includes practical implementations across:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   </picture>
 </p>
 
-## 👀 Profile Views
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/ishwari-surve">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/ishwari-surve/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:surveishwari296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>Building projects, improving skills, and growing through code.</sub>
+</p>
