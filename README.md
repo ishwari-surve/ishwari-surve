@@ -1,18 +1,21 @@
-# 👩‍💻 Ishwari Surve
+# 👋 Hii, I'm Ishwari Surve!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+Java+%7C+C+%7C+C%2B%2B;Automation+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%9F;I+turn+ideas+into+code+%F0%9F%92%BB;Building+with+Python+%26+Java+%E2%9A%A1;Automating+things%2C+one+project+at+a+time+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0" alt="Welcome to my GitHub profile" />
+</p>
+
+<p align="center">
+  <b>💻 Developer</b> &nbsp; • &nbsp;
+  <b>⚙️ Automation Enthusiast</b> &nbsp; • &nbsp;
+  <b>🧠 Machine Learning</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/ishwari-surve">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Explore My Repositories" />
   </a>
   <a href="https://www.linkedin.com/in/ishwari-surve/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:surveishwari296@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
 
@@ -26,9 +29,9 @@ I'm a developer interested in building practical software solutions, automation 
 - 🧩 **Problem Solving:** Data Structures and Algorithms
 - ⚙️ **Automation:** Python-based tools and utilities
 - 🧠 **Machine Learning:** Practical implementations and experiments
-- 🛠️ **Development Tools:** Git, GitHub, and VS Code
+- 🛠️ **Tools:** Git, GitHub, and VS Code
 
-I enjoy strengthening my programming fundamentals and turning ideas into useful projects through hands-on development.
+I enjoy turning ideas into useful projects, strengthening my programming fundamentals, and exploring new technologies through hands-on development.
 
 ---
 
@@ -52,7 +55,7 @@ I enjoy strengthening my programming fundamentals and turning ideas into useful 
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-**Tools & Other Technologies**
+**Tools & Technologies**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -60,37 +63,6 @@ I enjoy strengthening my programming fundamentals and turning ideas into useful 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Kerberos-334155?style=flat-square" alt="Kerberos" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">Automated Platform Surveillance System</a></h3>
-      <p>A Python-based project focused on platform surveillance and monitoring automation.</p>
-      <p><sub>Python · Automation</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">Secure Automated Data Shield</a></h3>
-      <p>A project focused on automated data protection and secure data management.</p>
-      <p><sub>Python · Security · Automation</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/ishwari-surve/Applied-ML-Workbench">Applied ML Workbench</a></h3>
-      <p>A collection of practical machine learning implementations and experiments.</p>
-      <p><sub>Python · Machine Learning</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 <a href="https://github.com/ishwari-surve/Automated-Duplicate-File-Detector">Automated Duplicate File Detector</a></h3>
-      <p>A Python project focused on identifying duplicate files and simplifying file management.</p>
-      <p><sub>Python · File Management</sub></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -119,7 +91,7 @@ I enjoy strengthening my programming fundamentals and turning ideas into useful 
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/ishwari-surve">
@@ -129,7 +101,7 @@ I enjoy strengthening my programming fundamentals and turning ideas into useful 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:surveishwari296@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -138,5 +110,5 @@ I enjoy strengthening my programming fundamentals and turning ideas into useful 
 </p>
 
 <p align="center">
-  <sub>Building projects, improving skills, and growing through code.</sub>
+  <sub>✨ Thanks for visiting! Keep building, keep exploring, and keep creating.</sub>
 </p>
