@@ -66,15 +66,27 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Programming Languages"
+    height="180"
+  />
 </p>
 
 ---
