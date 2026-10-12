@@ -21,17 +21,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-I'm a developer interested in building practical software solutions, automation tools, and machine learning applications.
+💻 Programmer with hands-on experience in **C, C++, Java, and Python**.
 
-- 💻 **Programming:** C, C++, Java, and Python
-- 🧩 **Problem Solving:** Data Structures and Algorithms
-- ⚙️ **Automation:** Python-based tools and utilities
-- 🧠 **Machine Learning:** Practical implementations and experiments
-- 🛠️ **Tools:** Git, GitHub, and VS Code
+🤖 Interested in building **automation tools and practical software solutions**.
 
-I enjoy turning ideas into useful projects, strengthening my programming fundamentals, and exploring new technologies through hands-on development.
+🧠 Exploring **Machine Learning** with Python, NumPy, Pandas, and Scikit-learn.
+
+🛠️ Focused on problem-solving, writing clean code, and developing real-world projects.
+
+🎯 Currently seeking opportunities to apply my programming and technical skills to meaningful projects.
 
 ---
 
