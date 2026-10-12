@@ -66,7 +66,6 @@
 
 ---
 
-```html
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -77,7 +76,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
-```
 
 ---
 
