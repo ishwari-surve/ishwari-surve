@@ -66,15 +66,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=ishwari-surve&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ishwari-surve&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -94,10 +94,10 @@
 ## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
+---
 
 ## 🤝 Let's Connect!
 
