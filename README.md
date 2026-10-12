@@ -79,13 +79,13 @@ I enjoy turning ideas into useful projects, strengthening my programming fundame
 
 ---
 
-## 🐍 Contribution Activity
+## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/ishwari-surve/ishwari-surve/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
   </picture>
 </p>
 
