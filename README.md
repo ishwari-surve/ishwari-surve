@@ -106,7 +106,7 @@ I enjoy turning ideas into useful projects, strengthening my programming fundame
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwari-surve&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ishwari-surve" alt="Profile Views" />
 </p>
 
 <p align="center">
