@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 <p align="center">
