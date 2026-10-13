@@ -43,37 +43,49 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">
-    <img src="https://img.shields.io/badge/🤖_Platform_Surveillance-Python-38BDF8?style=for-the-badge" alt="Platform Surveillance Project" />
-  </a>
-  <br/>
-  Python automation project for platform surveillance and monitoring.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">
-    <img src="https://img.shields.io/badge/🛡️_Secure_Data_Shield-Automation-6366F1?style=for-the-badge" alt="Secure Automated Data Shield" />
-  </a>
-  <br/>
-  Automation project focused on data protection and management.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishwari-surve/Applied-ML-Workbench">
-    <img src="https://img.shields.io/badge/🧠_Applied_ML_Workbench-Machine_Learning-A78BFA?style=for-the-badge" alt="Applied ML Workbench" />
-  </a>
-  <br/>
-  Machine-learning experiments and practical implementations.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishwari-surve/Automated-Directory-Cleaner">
-    <img src="https://img.shields.io/badge/🧹_Directory_Cleaner-Python-34D399?style=for-the-badge" alt="Automated Directory Cleaner" />
-  </a>
-  <br/>
-  Python automation project for organizing and cleaning directories.
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied ML Workbench</h3>
+      <p>Machine-learning case studies, experiments, and practical implementations.</p>
+      <img src="https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=172554" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Python-5EEAD4?style=flat-square&logo=python&logoColor=172554&labelColor=172554" alt="Python" />
+      <p><a href="https://github.com/ishwari-surve/Applied-ML-Workbench">Explore Project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Secure Automated Data Shield</h3>
+      <p>Automated backups with MD5 change detection, timestamped archives, and scheduled execution.</p>
+      <img src="https://img.shields.io/badge/Automation-5EEAD4?style=flat-square&labelColor=172554" alt="Automation" />
+      <img src="https://img.shields.io/badge/Python-5EEAD4?style=flat-square&logo=python&logoColor=172554&labelColor=172554" alt="Python" />
+      <p><a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">Explore Project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧹 Automated Directory Cleaner</h3>
+      <p>Scans directories, removes empty files, and generates timestamped cleanup logs.</p>
+      <img src="https://img.shields.io/badge/File_Management-A78BFA?style=flat-square&labelColor=172554" alt="File Management" />
+      <img src="https://img.shields.io/badge/Python-5EEAD4?style=flat-square&logo=python&logoColor=172554&labelColor=172554" alt="Python" />
+      <p><a href="https://github.com/ishwari-surve/Automated-Directory-Cleaner">Explore Project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Platform Surveillance System</h3>
+      <p>Periodic system monitoring with automated logging.</p>
+      <img src="https://img.shields.io/badge/Monitoring-A78BFA?style=flat-square&labelColor=172554" alt="Monitoring" />
+      <img src="https://img.shields.io/badge/Python-5EEAD4?style=flat-square&logo=python&logoColor=172554&labelColor=172554" alt="Python" />
+      <p><a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">Explore Project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔍 Automated Duplicate File Detector</h3>
+      <p>Identifies duplicate files using MD5 checksums and removes redundant copies.</p>
+      <img src="https://img.shields.io/badge/File_Processing-A78BFA?style=flat-square&labelColor=172554" alt="File Processing" />
+      <img src="https://img.shields.io/badge/Python-5EEAD4?style=flat-square&logo=python&logoColor=172554&labelColor=172554" alt="Python" />
+      <p><a href="https://github.com/ishwari-surve/Automated-Duplicate-File-Detector">Explore Project →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
