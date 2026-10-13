@@ -80,19 +80,18 @@
 ## 💻 Developer Terminal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISHWARI--SURVE%20%2F%20DEVELOPER-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41&labelColor=000000" alt="Developer Terminal" />
+  <img src="https://img.shields.io/badge/ISHWARI_SURVE-DEV_MODE-00D9A6?style=for-the-badge&labelColor=101820" alt="Ishwari Surve Developer Mode" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=180&lines=%24+whoami;Ishwari+Surve;%24+python+--version;Python+%7C+Automation+%7C+Machine+Learning;%24+echo+%22Building+something+useful...%22;SYSTEM+ONLINE_" alt="Animated developer terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=00D9A6&background=101820&center=true&vCenter=true&width=600&height=120&lines=%24+whoami;Ishwari+Surve;%24+building+with+Python;%24+automation+%7C+machine+learning;%24+system.ready()" alt="Animated developer terminal" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000" alt="Status Online" />
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00FF41?style=flat-square&labelColor=000000" alt="Focus Automation" />
-  <img src="https://img.shields.io/badge/EXPLORING-MACHINE_LEARNING-00FF41?style=flat-square&labelColor=000000" alt="Exploring Machine Learning" />
+  <img src="https://img.shields.io/badge/PYTHON-00D9A6?style=flat-square&logo=python&logoColor=101820&labelColor=101820" alt="Python" />
+  <img src="https://img.shields.io/badge/AUTOMATION-00D9A6?style=flat-square&labelColor=101820" alt="Automation" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-55C7F7?style=flat-square&labelColor=101820" alt="Machine Learning" />
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
