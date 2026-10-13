@@ -41,6 +41,44 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ishwari-surve/Automated-Platform-Surveillance-System">
+    <img src="https://img.shields.io/badge/🤖_Platform_Surveillance-Python-38BDF8?style=for-the-badge" alt="Platform Surveillance Project" />
+  </a>
+  <br/>
+  Python automation project for platform surveillance and monitoring.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishwari-surve/Secure-Automated-Data-Shield">
+    <img src="https://img.shields.io/badge/🛡️_Secure_Data_Shield-Automation-6366F1?style=for-the-badge" alt="Secure Automated Data Shield" />
+  </a>
+  <br/>
+  Automation project focused on data protection and management.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishwari-surve/Applied-ML-Workbench">
+    <img src="https://img.shields.io/badge/🧠_Applied_ML_Workbench-Machine_Learning-A78BFA?style=for-the-badge" alt="Applied ML Workbench" />
+  </a>
+  <br/>
+  Machine-learning experiments and practical implementations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishwari-surve/Automated-Directory-Cleaner">
+    <img src="https://img.shields.io/badge/🧹_Directory_Cleaner-Python-34D399?style=for-the-badge" alt="Automated Directory Cleaner" />
+  </a>
+  <br/>
+  Python automation project for organizing and cleaning directories.
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Programming Languages**
