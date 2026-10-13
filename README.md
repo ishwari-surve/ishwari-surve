@@ -80,17 +80,22 @@
 ## 💻 Developer Terminal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISHWARI_SURVE-DEV_MODE-00D9A6?style=for-the-badge&labelColor=101820" alt="Ishwari Surve Developer Mode" />
+  <img src="https://img.shields.io/badge/ISHWARI_SURVE-DEV_MODE-A78BFA?style=for-the-badge&labelColor=111827" alt="Ishwari Surve Developer Mode" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=00D9A6&background=101820&center=true&vCenter=true&width=600&height=120&lines=%24+whoami;Ishwari+Surve;%24+building+with+Python;%24+automation+%7C+machine+learning;%24+system.ready()" alt="Animated developer terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=60A5FA&background=111827&center=true&vCenter=true&width=650&height=140&lines=%24+whoami;Ishwari+Surve;%24+languages;Python+%7C+Java+%7C+C+%7C+C%2B%2B;%24+focus;Automation+%7C+Machine+Learning;%24+system.ready()" alt="Animated developer terminal" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-00D9A6?style=flat-square&logo=python&logoColor=101820&labelColor=101820" alt="Python" />
-  <img src="https://img.shields.io/badge/AUTOMATION-00D9A6?style=flat-square&labelColor=101820" alt="Automation" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-55C7F7?style=flat-square&labelColor=101820" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/PYTHON-60A5FA?style=flat-square&logo=python&logoColor=60A5FA&labelColor=111827" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVA-A78BFA?style=flat-square&logo=openjdk&logoColor=A78BFA&labelColor=111827" alt="Java" />
+  <img src="https://img.shields.io/badge/AUTOMATION-60A5FA?style=flat-square&labelColor=111827" alt="Automation" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-A78BFA?style=flat-square&labelColor=111827" alt="Machine Learning" />
+</p>
+
+<p align="center">
+  <strong>“Great things are built one line of code at a time.”</strong>
 </p>
 
 ---
