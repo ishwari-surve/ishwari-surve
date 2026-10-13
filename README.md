@@ -121,14 +121,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ishwari-surve&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Profile Trophies" />
-</p>
-
----
-
 ## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
