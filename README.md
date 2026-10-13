@@ -77,6 +77,24 @@
 
 ---
 
+## 💻 Developer Terminal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISHWARI--SURVE%20%2F%20DEVELOPER-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41&labelColor=000000" alt="Developer Terminal" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=180&lines=%24+whoami;Ishwari+Surve;%24+python+--version;Python+%7C+Automation+%7C+Machine+Learning;%24+echo+%22Building+something+useful...%22;SYSTEM+ONLINE_" alt="Animated developer terminal" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000" alt="Status Online" />
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00FF41?style=flat-square&labelColor=000000" alt="Focus Automation" />
+  <img src="https://img.shields.io/badge/EXPLORING-MACHINE_LEARNING-00FF41?style=flat-square&labelColor=000000" alt="Exploring Machine Learning" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Programming Languages**
