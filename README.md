@@ -5,7 +5,7 @@
 ---
 
 # 👋 Hii, I'm Ishwari Surve!
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%9F;I+turn+ideas+into+code+%F0%9F%92%BB;Building+with+Python+%26+Java+%E2%9A%A1;Automating+things%2C+one+project+at+a+time+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0" alt="Welcome to my GitHub profile" />
 </p>
