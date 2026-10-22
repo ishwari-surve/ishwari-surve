@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> 
-  <b>💻 Developer</b> &nbsp; • &nbsp;
+  <b>💻 Developer</b> &nbsp; • &nbsp; 
   <b>⚙️ Automation Enthusiast</b> &nbsp; • &nbsp;
   <b>🧠 Machine Learning</b>
 </p>
