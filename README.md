@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./a_wide_polished_futuristic_tech_themed_banner_he.png" alt="Ishwari Surve - Developer Portfolio Banner" width="100%" />  
 </p> 
-  
+   
 --- 
   
 # 👋 Hii, I'm Ishwari Surve! 
