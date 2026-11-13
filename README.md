@@ -1,17 +1,17 @@
+ <p align="center">
+  <img src="./a_wide_polished_futuristic_tech_themed_banner_he.png" alt="Ishwari Surve - Developer Portfolio Banner" width="100%" />
+</p>
+
+---
+
+# 👋 Hii, I'm Ishwari Surve!
+
 <p align="center">
-  <img src="./a_wide_polished_futuristic_tech_themed_banner_he.png" alt="Ishwari Surve - Developer Portfolio Banner" width="100%" />  
-</p> 
-        
----   
-   
-# 👋 Hii, I'm Ishwari Surve!   
-         
-<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%9F;I+turn+ideas+into+code+%F0%9F%92%BB;Building+with+Python+%26+Java+%E2%9A%A1;Automating+things%2C+one+project+at+a+time+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0" alt="Welcome to my GitHub profile" />
 </p>
 
-<p align="center"> 
-  <b>💻 Developer</b> &nbsp; • &nbsp; 
+<p align="center">
+  <b>💻 Developer</b> &nbsp; • &nbsp;
   <b>⚙️ Automation Enthusiast</b> &nbsp; • &nbsp;
   <b>🧠 Machine Learning</b>
 </p>
@@ -146,12 +146,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwari-surve&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" height="180" />
+  <a href="https://github.com/ishwari-surve">
+    <img src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="65%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari-surve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <sub>Contribution streak and activity are updated by the streak service.</sub>
 </p>
 
 ---
@@ -181,6 +182,7 @@
     <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 <p align="center">
   <sub>✨ Thanks for visiting! Keep building, keep exploring, and keep creating.</sub>
 </p>
