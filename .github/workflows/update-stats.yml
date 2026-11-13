@@ -18,20 +18,22 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats Card
-        uses: h1s97x/gh-readme-card@main
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: user
-          params: "username=ishwari-surve&show_icons=true&theme=dark&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&icon_color=00CFFF&border_color=FFFFFF&ring_color=7CFC00"
+          card: stats
+          options: username=ishwari-surve&show_icons=true&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&icon_color=00CFFF&border_color=FFFFFF&ring_color=7CFC00
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: h1s97x/gh-readme-card@main
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: langs
-          params: "username=ishwari-surve&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&border_color=FFFFFF"
+          card: top-langs
+          options: username=ishwari-surve&layout=compact&langs_count=6&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&border_color=FFFFFF
           path: profile/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Save Generated Cards
+      - name: Commit Generated Cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
