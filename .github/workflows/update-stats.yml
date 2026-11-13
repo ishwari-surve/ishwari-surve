@@ -1,0 +1,40 @@
+
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        uses: h1s97x/gh-readme-card@main
+        with:
+          card: user
+          params: "username=ishwari-surve&show_icons=true&theme=dark&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&icon_color=00CFFF&border_color=FFFFFF&ring_color=7CFC00"
+          path: profile/stats.svg
+
+      - name: Generate Top Languages Card
+        uses: h1s97x/gh-readme-card@main
+        with:
+          card: langs
+          params: "username=ishwari-surve&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=7CFC00&text_color=FFFFFF&border_color=FFFFFF"
+          path: profile/languages.svg
+
+      - name: Save Generated Cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "Update GitHub stats cards"
+          git push
