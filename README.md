@@ -146,14 +146,29 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ishwari-surve">
-    <img src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="65%" />
-  </a>
+  <img
+    src="./profile/stats.svg"
+    alt="Ishwari Surve GitHub Stats"
+    width="450"
+  />
 </p>
 
 <p align="center">
-  <sub>Contribution streak and activity are updated by the streak service.</sub>
+  <img
+    src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=highcontrast&hide_border=false"
+    alt="GitHub Contribution Streak"
+    width="450"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="./profile/languages.svg"
+    alt="Ishwari Surve Most Used Languages"
+    width="450"
+  />
+</p>
+
 
 ---
 
