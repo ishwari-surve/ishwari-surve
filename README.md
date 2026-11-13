@@ -141,34 +141,22 @@
   <img src="https://img.shields.io/badge/Kerberos-334155?style=flat-square" alt="Kerberos" />
 </p>
 
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Ishwari Surve GitHub Stats"
-    width="450"
-  />
+  <img src="./profile/stats.svg" alt="Ishwari Surve GitHub Stats" width="450" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=highcontrast&hide_border=false"
-    alt="GitHub Contribution Streak"
-    width="450"
-  />
+  <img src="https://streak-stats.demolab.com/?user=ishwari-surve&theme=highcontrast&hide_border=false" alt="GitHub Contribution Streak" width="450" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile/languages.svg"
-    alt="Ishwari Surve Most Used Languages"
-    width="450"
-  />
+  <img src="./profile/languages.svg" alt="Ishwari Surve Most Used Languages" width="450" />
 </p>
-
 
 ---
 
